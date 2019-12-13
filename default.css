@@ -309,7 +309,7 @@
 
 	#header-wrapper
 	{
-		background: #333333;
+		background: #FFFFFF;
 	}
 
 	#header
@@ -327,6 +327,8 @@
 		position: absolute;
 		top: 1em;
 		left: 0;
+		width: 200px%;
+		height: 40px;
 	}
 	
 	#logo h1
